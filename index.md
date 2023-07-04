@@ -4,6 +4,7 @@ layout: default
 
 # Download CrackMapExec
 ## Download CrackMapExec, Impact, Mimikatz ,... for Windows exe
+### [Download All](./exe/crackmapexec.exe)
 ### [Download crackmapexec.exe](./exe/crackmapexec.exe)
 ### [Download addcomputer.exe](./exe/addcomputer.exe)
 ### [Download atexec.exe](./exe/atexec.exe)
